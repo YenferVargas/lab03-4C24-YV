@@ -7,6 +7,7 @@ public class StudentController {
 		String alumno = "Yenifer";
 		System.out.println(alumno);
 		System.out.println("Hola mundo");
+		System.out.println( "Hola Yo " );
 		
 
 	}
